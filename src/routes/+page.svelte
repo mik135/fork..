@@ -10,7 +10,7 @@
             <p class="py-6 text-lg">
                 Turn your scattered whatsapp messages into sleek, organized FAQ pages. Finally, a tool for people who hate having to repeat themselves everytime.
             </p>
-            <form method="POST">
+            <form method="POST" class="w-full">
                 <div class="md:flex md:gap-3 md:mx-auto">
                     <label class="input validator w-full h-12">
                         <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></g></svg>

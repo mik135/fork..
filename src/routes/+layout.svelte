@@ -8,7 +8,7 @@
 </svelte:head>
 
 <div class="navbar bg-black shadow-sm">
-	<a class="btn btn-ghost text-2xl font-mono text-white" href="/">fork..</a>
+	<a class="text-2xl font-mono text-white" href="/">fork..</a>
 </div>
 
 {@render children()}
