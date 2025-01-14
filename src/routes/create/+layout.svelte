@@ -1,1 +1,5 @@
-<h1>Hello World dears</h1>    
+<script>
+	let { children } = $props();
+</script>
+
+{@render children()}
